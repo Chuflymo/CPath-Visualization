@@ -12,3 +12,5 @@ Simply download the zip file to get started.
 launcher.py and main.py are used to set up and run the GUI, whilst visualization_core.py contains the core functions generate_heatmap and generate_cam. Currently, there are two features available: generating attention-based MIL visualisations (attention heatmaps) and CAM tumour prediction probability maps, with support for multi-head attention models.
 
 You will need to provide the original slides in TIF format, along with the relevant annotation information in XML and H5 files.
+
+![](/fig.png)
