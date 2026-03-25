@@ -3,4 +3,4 @@
 
 下载压缩包即可使用
 
-launcher.py和main.py搭建运行GUI，visualization_core.py含有核心程序
+launcher.py和main.py搭建运行GUI，visualization_core.py含有核心程序generate_heatmap和generate_cam，目前有生成基于注意力的MIL可视化注意力热图和CAM肿瘤预测概率图两个功能，支持多头注意力模型。
